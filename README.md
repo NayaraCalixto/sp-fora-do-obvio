@@ -85,28 +85,33 @@ Cada item do **`dados.json`** segue este contrato:
 
 ## 📑 Passo a Passo de Uso
 
-<!--1. **Tela inicial**-->
+1. **Abrir o projeto**
+- Link para acessar: [SP Fora do Óbvio](https://nayaracalixto.github.io/sp-fora-do-obvio/)
+- Tela inicial
 ![](assets/inicial.png)
 
-1. **Buscar por interesse**  
+3. **Buscar por interesse**  
    - Digite um termo (ex.: “kart”).  
    - Clique em **Buscar**.  
-   - Explore os cards retornados e clique em **Visitar site**.   
+   - Explore os cards retornados e clique em **Visitar site**.
+     
 ![](assets/teste-sem-filtros-resultado.png)
 
-2. **Filtrar seu humor e região**  
+4. **Filtrar seu humor e região**  
    - Selecione “Humor” (ex.: Criativo) e/ou “Região” (ex.: Zona Sul).  
    - Clique em **Buscar por Filtros**.  
-   - Veja resultados focados no clima e proximidade. 
+   - Veja resultados focados no clima e proximidade.
+     
 ![](assets/teste-filtros-resultado.png) 
    - Caso não encontre um resultado, aparecerá um mensagem de "Nenhum resultado encontrado."
+     
 ![](assets/teste-filtros-sem-resultado.png)
 
-3. **Refinar ou recomeçar**  
+5. **Refinar ou recomeçar**  
    - Ajuste os filtros para afinar resultados.  
    - Clique em **Limpar Filtros** para começar do zero.  
 
-4. **Descobrir e socializar**  
+6. **Descobrir e socializar**  
    - Escolha um rolê, abra o link oficial e combine com amigos.  
    - Crie novos hábitos e explore São Paulo em diferentes perspectivas.  
 
@@ -133,6 +138,7 @@ Cada item do **`dados.json`** segue este contrato:
 ## 👩‍💻 Autoria
 Projeto desenvolvido por **Nayara Calixto** durante a **Imersão Dev 2025 da Alura com o Google Gemini**.  
 🔗 [GitHub](https://github.com/NayaraCalixto)
+
 
 
 
