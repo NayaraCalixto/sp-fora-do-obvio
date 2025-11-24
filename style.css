@@ -1,0 +1,219 @@
+/* ================================
+   RESET E ESTILOS GERAIS
+================================*/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+}
+
+body {
+  background: #0f0f0f;
+  color: #fff;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
+
+/* ================================
+   HEADER
+================================*/
+header {
+  width: 100%;
+  max-width: 700px;
+  text-align: center;
+  margin-bottom: 25px;
+}
+
+header h1 {
+  font-size: 2.8rem;
+  margin-bottom: 10px;
+}
+
+header .subtitle {
+  color: #d4d4d4;
+  font-size: 1.2rem;
+}
+
+/* ================================
+   MAIN (área principal)
+================================*/
+main {
+  width: 100%;
+  max-width: 700px;
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+}
+
+/* -------------------------------
+   CAIXA DE BUSCA
+--------------------------------*/
+.search-box {
+  display: flex;
+  gap: 12px;
+}
+
+.search-box input {
+  flex: 1;
+  padding: 14px;
+  border-radius: 8px;
+  border: 1px solid #333;
+  background: #1a1a1a;
+  color: #fff;
+  font-size: 1rem;
+}
+
+.search-box input::placeholder {
+  color: #777;
+}
+
+/* -------------------------------
+   BOTÕES
+--------------------------------*/
+button {
+  padding: 14px 18px;
+  border: none;
+  border-radius: 8px;
+  background: #002b5c; /* Azul marinho forte */
+  color: #fff;
+  cursor: pointer;
+  font-size: 1rem;
+  transition: 0.2s;
+}
+
+button:hover {
+  background: #004080;
+}
+
+#btnLimpar {
+  padding: 12px 16px;
+  border: none;
+  border-radius: 8px;
+  background: #444; /* cinza escuro */
+  color: #fff;
+  cursor: pointer;
+  font-size: 1rem;
+  transition: 0.2s;
+}
+
+#btnLimpar:hover {
+  background: #666;
+}
+
+/* -------------------------------
+   FILTROS
+--------------------------------*/
+.filters {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+select {
+  width: 100%;
+  padding: 14px;
+  border-radius: 8px;
+  border: 1px solid #333;
+  background: #1a1a1a;
+  color: #fff;
+  font-size: 1rem;
+}
+
+/* ================================
+   RESULTADOS
+================================*/
+.results {
+  padding: 20px;
+  background: #151515;
+  border-radius: 12px;
+  border: 1px solid #333;
+  display: none;
+}
+
+.card-item {
+  margin-bottom: 20px;
+}
+
+.card-item h3 {
+  font-size: 1.3rem;
+  margin-bottom: 6px;
+  color: #86c5ff;
+}
+
+.card-item p {
+  margin-bottom: 8px;
+  line-height: 1.5;
+}
+
+.card-item a {
+  color: #4da3ff;
+  text-decoration: none;
+}
+
+.card-item a:hover {
+  text-decoration: underline;
+}
+
+.results hr {
+  border: 0;
+  border-bottom: 1px solid #333;
+  margin: 15px 0;
+}
+
+/* ================================
+   RODAPÉ
+================================*/
+footer {
+  margin-top: auto;
+  padding: 18px 0;
+  width: 100%;
+  text-align: center;
+  color: #bbb;
+  font-size: 0.95rem;
+}
+
+footer a {
+  color: #4da3ff;
+  text-decoration: none;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
+
+/* ================================
+   RESPONSIVIDADE
+================================*/
+@media (max-width: 480px) {
+  header h1 {
+    font-size: 2.2rem;
+  }
+
+  .search-box {
+    flex-direction: column;
+  }
+
+  button {
+    width: 100%;
+  }
+}
+
+@media (max-width: 360px) {
+  header h1 {
+    font-size: 1.9rem;
+  }
+
+  main {
+    gap: 18px;
+  }
+
+  button,
+  input,
+  select {
+    font-size: 0.9rem;
+  }
+}

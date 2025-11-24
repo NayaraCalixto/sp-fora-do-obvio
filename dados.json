@@ -1,0 +1,511 @@
+[
+  {
+    "nome": "Speedland Kart Center",
+    "categoria": "Aventura",
+    "regiao": "Zona Leste",
+    "descricao": "O Speedland é o único kartódromo no Brasil com pista Indoor e Outdoor, com um traçado único e desafiador.",
+    "endereco": "Rua Ulisses Cruz, 275 - Tatuapé, São Paulo - SP",
+    "link": "https://speedland.com.br/"
+  },
+  {
+    "nome": "Fight Paintaball",
+    "categoria": "Aventura",
+    "regiao": "Zona Leste",
+    "descricao": "O Paintball é um jogo de ação, geralmente jogado em um campo amplo e com obstáculos variados.",
+    "endereco": "Av. Itaquera, 6991 - Itaquera, São Paulo - SP",
+    "link": "http://www.fpaintball.com.br/"
+  },
+
+  {
+    "nome": "Kartódromo Granja Viana",
+    "categoria": "Aventura",
+    "regiao": "Zona Oeste",
+    "descricao": "Uma das pistas mais famosas do Brasil.",
+    "endereco": "Rua Tomás Sepé, 443 – Jd. da Glória – Cotia - SP",
+    "link": "https://kartodromogranjaviana.com.br/"
+  },
+  {
+    "nome": "Casa de Pedra Perdizes",
+    "categoria": "Aventura",
+    "regiao": "Zona Oeste",
+    "descricao": "Uma das melhores academias de escalada do país.",
+    "endereco": "Rua Venâncio Aires, 31 - Perdizes, São Paulo - SP",
+    "link": "https://casadepedra.com.br/unidade-perdizes/"
+  },
+
+  {
+    "nome": "Kartódromo de Interlagos",
+    "categoria": "Aventura",
+    "regiao": "Zona Sul",
+    "descricao": "Pista coberta com boa extensão.",
+    "endereco": "Av. Jacinto Júlio, 1311 - Interlagos, São Paulo - SP",
+    "link": "https://autodromodeinterlagos.prefeitura.sp.gov.br/w/kartodromo-ayrton-senna"
+  },
+  {
+    "nome": "Crazy Paintball & Airsoft",
+    "categoria": "Aventura",
+    "regiao": "Zona Sul",
+    "descricao": "Campo conhecido por obstáculos imersivos.",
+    "endereco": " R. dos Marapés, 137 - Vila Campestre, São Paulo - SP",
+    "link": "https://crazypaintball.com.br/"
+  },
+  {
+    "nome": "90 Graus Escalada",
+    "categoria": "Aventura",
+    "regiao": "Zona Sul",
+    "descricao": "Parede moderna e rotas esportivas.",
+    "endereco": "Av. João Pedro Cardoso 107, Parque Jabaquara, São Paulo - SP",
+    "link": "https://www.90grausescalada.com.br/"
+  },
+  {
+    "nome": "Kartódromo Shopping TriMais",
+    "categoria": "Aventura",
+    "regiao": "Zona Norte",
+    "descricao": "Desafie seus amigos em uma emocionante corrida de kart.",
+    "endereco": "Av. Nova Cantareira, 2200 - Parada Inglesa, São Paulo - SP",
+    "link": "https://www.vfracing.com.br/service-page/kart%C3%B3dromo-shopping-trimais?referral=service_list_widget"
+  },
+  {
+    "nome": "Adrena Paintball",
+    "categoria": "Aventura",
+    "regiao": "Zona Norte",
+    "descricao": "Combate simulado com equipamentos de alta qualidade.",
+    "endereco": "Av. Cel. Sezefredo Fagundes, 28000 - Jardim Engordador, São Paulo - SP",
+    "link": "https://adrenapaintball.com/"
+  },
+
+  {
+    "nome": "Roller Dance Liberdade",
+    "categoria": "Aventura",
+    "regiao": "Centro",
+    "descricao": "Pista de patinação com ambiente agradável e diversão garantida",
+    "endereco": "Galvão Bueno 351/365 3º andar - Galeria Imperial -Liberdade -SP",
+    "link": "https://www.instagram.com/roller_dance_liberdade/"
+  },
+
+
+
+
+
+
+  {
+    "nome": "Cursos Art Atack Desenhos",
+    "categoria": "Criativo",
+    "regiao": "Zona Sul",
+    "descricao": "Escola de artes que oferece cursos de desenho e pintura em formatos dinâmicos e acessíveis.",
+    "endereco": "R. Dr. Oscar Andrade Lemos, 1067 - Grajaú, São Paulo - SP, 04822-040",
+    "link": "http://www.cursosartatack.com.br/"
+  },
+  {
+    "nome": "Atelier Granata - Aulas de Pintura, Desenho e Processos Criativos",
+    "categoria": "Criativo",
+    "regiao": "Zona Oeste",
+    "descricao": "Ateliê que promove aulas de pintura e desenho com foco em processos criativos rápidos e envolventes.",
+    "endereco": "Rua Dr. Brandão Veras, 255 - Alto de Pinheiros, São Paulo - SP, 05458-001",
+    "link": "https://ateliergranata.com.br/aulas-de-pintura-e-desenho/"
+  },
+  {
+    "nome": "Escola de Aquarela",
+    "categoria": "Criativo",
+    "regiao": "Centro",
+    "descricao": "Escola dedicada à aquarela, com aulas curtas e práticas para estimular a criatividade.",
+    "endereco": "R. Purpurina, 198 - Sumarezinho, Vila Madalena, São Paulo - SP, 05435-030",
+    "link": "https://www.escoladeaquarela.com.br/"
+  },
+
+
+
+
+
+
+
+  {
+    "nome": "Slackline no Parque Ibirapuera",
+    "categoria": "Esporte",
+    "regiao": "Zona Sul",
+    "descricao": "Área aberta ideal para praticar equilíbrio e exercícios de mobilidade.",
+    "endereco": "Av. Pedro Álvares Cabral, s/n - Ibirapuera, São Paulo - SP",
+    "link": "https://ibirapuera.org/slackline/regras-do-slackline/"
+  },
+  {
+    "nome": "Slackline no Parque Ceret",
+    "categoria": "Esporte",
+    "regiao": "Zona Leste",
+    "descricao": "Gramado amplo perfeito para praticar slackline com iniciantes e grupos.",
+    "endereco": "R. Canuto Abreu, s/n - Jardim Anália Franco, São Paulo - SP",
+    "link": "https://instagram.com/parqueceret"
+  },
+
+  {
+    "nome": "Fight Club SP",
+    "categoria": "Esporte",
+    "regiao": "Zona Oeste",
+    "descricao": "Academia que oferece aulas experimentais de boxe para iniciantes e praticantes avançados.",
+    "endereco": "Rua Cardeal Arcoverde, 2045 - Pinheiros, São Paulo - SP",
+    "link": "https://www.fightclubsp.com.br/"
+  },
+  {
+    "nome": "Playball Pompeia",
+    "categoria": "Esporte",
+    "regiao": "Zona Oeste",
+    "descricao": "Complexo esportivo com quadras de futebol society, incluindo horários noturnos para grupos e empresas.",
+    "endereco": "Av. Nicolas Boer, 120 - Barra Funda, São Paulo - SP",
+    "link": "https://www.playball.com.br/"
+  },
+  {
+    "nome": "Patins no Minhocão",
+    "categoria": "Esporte",
+    "regiao": "Centro",
+    "descricao": "Encontros de patinação no Elevado Presidente João Goulart (Minhocão), com prática livre e oficinas.",
+    "endereco": "Elevado Pres. João Goulart - Santa Cecília, São Paulo - SP",
+    "link": ""
+  },
+  {
+    "nome": "Patins no Parque Juventude",
+    "categoria": "Esporte",
+    "regiao": "Zona Norte",
+    "descricao": "Pista lisa perfeita para treinos de patinação.",
+    "endereco": "Av. Cruzeiro do Sul, 2630 - Santana, São Paulo - SP",
+    "link": ""
+  },
+  {
+    "nome": "Patins no Parque Villa-Lobos",
+    "categoria": "Esporte",
+    "regiao": "Zona Oeste",
+    "descricao": "Pista ampla e segura para praticar patinação.",
+    "endereco": "Av. Prof. Fonseca Rodrigues, 2001 - São Paulo - SP",
+    "link": ""
+  },
+  {
+    "nome": "Patins no Parque Ibirapuera",
+    "categoria": "Esporte",
+    "regiao": "Zona Sul",
+    "descricao": "Área lisa e extensa para treinos e lazer.",
+    "endereco": "Av. Pedro Álvares Cabral, s/n - Ibirapuera, São Paulo - SP",
+    "link": ""
+  },
+  {
+    "nome": "Patins no Parque do Carmo",
+    "categoria": "Esporte",
+    "regiao": "Zona Leste",
+    "descricao": "Ambiente tranquilo e arborizado para patinação recreativa.",
+    "endereco": "Av. Afonso de Sampaio e Sousa, 951 - Itaquera, São Paulo - SP",
+    "link": ""
+  },
+  {
+    "nome": "Society Morumbi",
+    "categoria": "Esporte",
+    "regiao": "Zona Sul",
+    "descricao": "Quadras de futebol society com estrutura para jogos noturnos e eventos esportivos.",
+    "endereco": "Av. Giovanni Gronchi, 5930 - Morumbi, São Paulo - SP",
+    "link": "https://www.societymorumbi.com.br/"
+  },
+  {
+    "nome": "Boxe Evolution",
+    "categoria": "Esporte",
+    "regiao": "Zona Norte",
+    "descricao": "Academia especializada em boxe, com aulas experimentais para iniciantes e praticantes.",
+    "endereco": "Av. Engenheiro Caetano Álvares, 6000 - Mandaqui, São Paulo - SP",
+    "link": "https://www.boxeevolution.com.br/"
+  },
+  {
+    "nome": "Playball Santana",
+    "categoria": "Esporte",
+    "regiao": "Zona Norte",
+    "descricao": "Quadras de futebol society com horários estendidos para partidas noturnas.",
+    "endereco": "Rua Voluntários da Pátria, 4984 - Santana, São Paulo - SP",
+    "link": "https://www.playball.com.br/santana"
+  },
+
+
+
+
+
+
+
+  {
+    "nome": "Escape 60'",
+    "categoria": "Diferente",
+    "regiao": "Zona Sul",
+    "descricao": "Escape room temático com diversas salas e desafios interativos para grupos de amigos e empresas.",
+    "endereco": "Av. das Nações Unidas, 22.540 - Santo Amaro, São Paulo - SP",
+    "link": "https://escape60.com.br/"
+  },
+  {
+    "nome": "Escape Time",
+    "categoria": "Diferente",
+    "regiao": "Zona Oeste",
+    "descricao": "Escape room com salas temáticas de aventura e mistério, ideal para experiências rápidas e divertidas.",
+    "endereco": "Rua Padre Garcia Velho, 55 - Pinheiros, São Paulo - SP",
+    "link": "https://escapetime.com.br/"
+  },
+  {
+    "nome": "Escape Hotel",
+    "categoria": "Diferente",
+    "regiao": "Zona Oeste",
+    "descricao": "Primeiro escape room em formato de hotel do Brasil, com salas inspiradas em filmes e histórias de suspense.",
+    "endereco": "Av. Pedroso de Morais, 832 - Pinheiros, São Paulo - SP",
+    "link": "https://escapehotel.com.br/"
+  },
+  {
+    "nome": "Escape 60' Tatuapé",
+    "categoria": "Diferente",
+    "regiao": "Zona Leste",
+    "descricao": "Unidade do Escape 60' com salas temáticas e desafios interativos, ideal para grupos de amigos e famílias.",
+    "endereco": "Rua Serra de Bragança, 658 - Tatuapé, São Paulo - SP, 03318-000",
+    "link": "https://escape60.com.br/unidades/sao-paulo-tatuape/"
+  },
+  {
+    "nome": "Escape 60' Santana",
+    "categoria": "Diferente",
+    "regiao": "Zona Norte",
+    "descricao": "Escape room temático recém-inaugurado em Santana, com salas de mistério e aventura.",
+    "endereco": "Rua Alfredo Pujol, 1659 - 1º andar - Santana, São Paulo - SP",
+    "link": "https://guiazn.net/escape60/"
+  },
+  {
+    "nome": "Gravity VR",
+    "categoria": "Diferente",
+    "regiao": "Zona Sul",
+    "descricao": "Arena de realidade virtual com jogos imersivos e experiências interativas para todas as idades.",
+    "endereco": "Av. Jandira, 742 - Moema, São Paulo - SP",
+    "link": "https://gravityvr.com.br/"
+  },
+  {
+    "nome": "VR Gamer Unidade Mooca",
+    "categoria": "Diferente",
+    "regiao": "Zona Leste",
+    "descricao": "Espaço de realidade virtual com simuladores e jogos interativos em grupo.",
+    "endereco": "Rua da Mooca, 1601 - Mooca, São Paulo - SP",
+    "link": "https://vrgamer.com.br/"
+  },
+  {
+    "nome": "Arena VR",
+    "categoria": "Diferente",
+    "regiao": "Zona Oeste",
+    "descricao": "Espaço de realidade virtual com jogos de aventura e experiências multiplayer.",
+    "endereco": "Av. Brigadeiro Faria Lima, 2391 - Jardim Paulistano, São Paulo - SP",
+    "link": "https://arenavr.com.br/"
+  },
+  {
+    "nome": "Ludus Luderia",
+    "categoria": "Diferente",
+    "regiao": "Centro",
+    "descricao": "Bar pioneiro em São Paulo com mais de 1.700 jogos de tabuleiro disponíveis para jogar no local.",
+    "endereco": "Rua Treze de Maio, 972 - Bela Vista, São Paulo - SP",
+    "link": "https://www.ludusluderia.com.br/"
+  },
+  {
+    "nome": "Board Game Burger",
+    "categoria": "Diferente",
+    "regiao": "Zona Norte",
+    "descricao": "Hamburgueria temática que combina gastronomia com uma ampla coleção de jogos de tabuleiro.",
+    "endereco": "Av. Engenheiro Caetano Álvares, 4696 - Mandaqui, São Paulo - SP",
+    "link": "https://boardgameburger.com.br/"
+  },
+  {
+    "nome": "Funbox Ludolocadora",
+    "categoria": "Diferente",
+    "regiao": "Zona Oeste",
+    "descricao": "Espaço dedicado a jogos de tabuleiro, com centenas de títulos para jogar e alugar.",
+    "endereco": "Rua Dona Germaine Burchard, 451 - Água Branca, São Paulo - SP",
+    "link": "https://www.funbox.com.br/"
+  },
+  {
+    "nome": "BG Room",
+    "categoria": "Diferente",
+    "regiao": "Zona Sul",
+    "descricao": "Bar e espaço de convivência com jogos de tabuleiro e card games, ideal para grupos.",
+    "endereco": "Rua Luís Góis, 1760 - Mirandópolis, São Paulo - SP",
+    "link": "https://bgroom.com.br/"
+  },
+  {
+    "nome": "Tabuleiro Café",
+    "categoria": "Diferente",
+    "regiao": "Zona Leste",
+    "descricao": "Café temático com jogos de tabuleiro e card games, ambiente descontraído para encontros criativos.",
+    "endereco": "Rua Serra de Bragança, 1436 - Tatuapé, São Paulo - SP",
+    "link": "https://www.instagram.com/tabuleirocafe/"
+  },
+
+
+
+
+
+  {
+    "nome": "Karaokê Box",
+    "categoria": "Social",
+    "regiao": "Centro",
+    "descricao": "Tradicional karaokê no centro de São Paulo, com ambiente descontraído e repertório variado.",
+    "endereco": "Rua da Glória, 553 - Liberdade, São Paulo - SP",
+    "link": "https://karaokebox.com.br/"
+  },
+  {
+    "nome": "Choperia Liberdade",
+    "categoria": "Social",
+    "regiao": "Centro",
+    "descricao": "Um dos karaokês mais famosos da Liberdade, com palco aberto e clima festivo.",
+    "endereco": "Rua da Glória, 523 - Liberdade, São Paulo - SP",
+    "link": "https://choperialiberdade.com.br/"
+  },
+  {
+    "nome": "Karaokê Kampai",
+    "categoria": "Social",
+    "regiao": "Zona Sul",
+    "descricao": "Espaço acolhedor na Zona Sul com karaokê e cardápio de comidas e bebidas.",
+    "endereco": "Rua Dr. Tomás Carvalhal, 651 - Paraíso, São Paulo - SP",
+    "link": "https://karaokekampai.com.br/"
+  },
+  {
+    "nome": "Karaokê Okay",
+    "categoria": "Social",
+    "regiao": "Zona Norte",
+    "descricao": "Karaokê tradicional da Zona Norte, com repertório variado e ambiente familiar.",
+    "endereco": "Rua Maria Cândida, 1155 - Vila Guilherme, São Paulo - SP",
+    "link": "https://karaokeokay.com.br/"
+  },
+  {
+    "nome": "Karaokê Hara",
+    "categoria": "Social",
+    "regiao": "Zona Leste",
+    "descricao": "Karaokê localizado no Tatuapé, com salas privativas e repertório atualizado.",
+    "endereco": "Rua Serra de Bragança, 1251 - Tatuapé, São Paulo - SP",
+    "link": "https://karaokehara.com.br/"
+  },
+  {
+    "nome": "Karaokê Chopperia Itaim",
+    "categoria": "Social",
+    "regiao": "Zona Oeste",
+    "descricao": "Karaokê descontraído no Itaim, com palco aberto e ambiente animado.",
+    "endereco": "Rua Jerônimo da Veiga, 198 - Itaim Bibi, São Paulo - SP",
+    "link": "https://karaokeitaim.com.br/"
+  },
+  {
+    "nome": "Boliche Villa Bowling - Shopping West Plaza",
+    "categoria": "Social",
+    "regiao": "Zona Oeste",
+    "descricao": "Boliche localizado no Shopping West Plaza, com pistas modernas e ambiente descontraído.",
+    "endereco": "Av. Francisco Matarazzo, s/n - 2º piso Bloco C - Água Branca, São Paulo - SP",
+    "link": "http://www.villabowling.com.br/"
+  },
+  {
+    "nome": "Bom Boliche",
+    "categoria": "Social",
+    "regiao": "Zona Leste",
+    "descricao": "Boliche tradicional no Tatuapé, com ambiente familiar e opções de lanches.",
+    "endereco": "R. Emília Marengo, 746 - Vila Regente Feijó, São Paulo - SP",
+    "link": "https://www.instagram.com/bombolichetatuape/"
+  },
+  {
+    "nome": "Boliche Villa Bowling - Shopping Vila Olimpia",
+    "categoria": "Social",
+    "regiao": "Zona Sul",
+    "descricao": "Boliche moderno dentro do Shopping Vila Olímpia, ideal para grupos e eventos.",
+    "endereco": "R. Olimpíadas, 360 - 4º andar - Vila Olímpia, São Paulo - SP",
+    "link": "http://www.villabowling.com.br/"
+  },
+  {
+    "nome": "Dragon Bowling",
+    "categoria": "Social",
+    "regiao": "Zona Norte",
+    "descricao": "Boliche localizado no Shopping Center Norte, com ambiente animado e opções gastronômicas.",
+    "endereco": "Tv. Casalbuono, 120 - Vila Guilherme, São Paulo - SP",
+    "link": "http://www.dragonbowling.com.br/"
+  },
+  {
+    "nome": "Novo Boliche",
+    "categoria": "Social",
+    "regiao": "Zona Norte",
+    "descricao": "Boliche tradicional da Vila Maria, com pistas modernas e ambiente descontraído.",
+    "endereco": "Av. Guilherme Cotching, 1453 - Vila Maria, São Paulo - SP",
+    "link": "http://novobolichevilamaria.com.br/"
+  },
+  {
+    "nome": "Boliche Pista 12",
+    "categoria": "Social",
+    "regiao": "Zona Oeste",
+    "descricao": "Boliche localizado no Jaguaré, com pistas bem cuidadas e ambiente descontraído.",
+    "endereco": "Av. Leão Machado, 100 - Jaguaré, São Paulo - SP",
+    "link": "https://www.bolichecontinental.com.br/"
+  },
+  {
+    "nome": "Bolix",
+    "categoria": "Social",
+    "regiao": "Zona Sul",
+    "descricao": "Boliche localizado em Interlagos, com ambiente animado e opções de entretenimento.",
+    "endereco": "Av. Interlagos, 2255 - Interlagos, São Paulo - SP",
+    "link": "http://bolixboliche.com.br/"
+  },
+  {
+    "nome": "Boliche Villa Bowling - Shopping Center Norte",
+    "categoria": "Social",
+    "regiao": "Zona Norte",
+    "descricao": "Boliche dentro do Shopping Center Norte, com pistas modernas e ambiente descontraído.",
+    "endereco": "Av. Otto Baumgart, 245 - Vila Guilherme, São Paulo - SP",
+    "link": "https://villabowling.com.br/"
+  },
+
+
+
+
+
+
+  {
+    "nome": "Trilha da Nascente do Riacho do Ipiranga - Parque do Carmo",
+    "categoria": "Natureza",
+    "regiao": "Zona Leste",
+    "descricao": "Trilha leve dentro do Parque do Carmo, ideal para contato com a natureza e caminhada tranquila.",
+    "endereco": "Av. Afonso de Sampaio e Sousa, 951 - Itaquera, São Paulo - SP",
+    "link": "https://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/parques/regiao_leste/parque_do_carmo/"
+  },
+  {
+    "nome": "Trilha da Nascente do Riacho do Ipiranga - Parque Ibirapuera",
+    "categoria": "Natureza",
+    "regiao": "Zona Sul",
+    "descricao": "Trilha urbana que percorre áreas verdes do Parque Ibirapuera, com percurso leve e acessível.",
+    "endereco": "Av. Pedro Álvares Cabral - Vila Mariana, São Paulo - SP",
+    "link": "https://parqueibirapuera.org/"
+  },
+  {
+    "nome": "Trilha do Pai Zé - Parque Estadual do Jaraguá",
+    "categoria": "Natureza",
+    "regiao": "Zona Norte",
+    "descricao": "Trilha de 3,6 km que leva ao Pico do Jaraguá, o ponto mais alto da cidade de São Paulo.",
+    "endereco": "Rua Antônio Cardoso Nogueira, 539 - Vila Chica Luiza, São Paulo - SP",
+    "link": "https://www.infraestruturameioambiente.sp.gov.br/parque-jaragua/"
+  },
+  {
+    "nome": "Trilha das Cachoeiras - Parque Estadual da Cantareira (Núcleo Engordador)",
+    "categoria": "Natureza",
+    "regiao": "Zona Norte",
+    "descricao": "Trilha com cerca de 3 km passando por cachoeiras e mata atlântica preservada.",
+    "endereco": "Estrada da Roseira, 1157 - Mairiporã/SP (acesso pela Zona Norte de São Paulo)",
+    "link": "https://www.infraestruturameioambiente.sp.gov.br/parque-cantareira/"
+  },
+  {
+    "nome": "Trilha da Pedra Grande - Parque Estadual da Cantareira (Núcleo Pedra Grande)",
+    "categoria": "Natureza",
+    "regiao": "Zona Norte",
+    "descricao": "Trilha de 9,5 km até o mirante da Pedra Grande, com vista panorâmica da cidade.",
+    "endereco": "Rua do Horto, 1799 - Horto Florestal, São Paulo - SP",
+    "link": "https://www.infraestruturameioambiente.sp.gov.br/parque-cantareira/"
+  },
+  {
+    "nome": "Trilha da Nascente - Parque Villa-Lobos",
+    "categoria": "Natureza",
+    "regiao": "Zona Oeste",
+    "descricao": "Trilha curta e acessível dentro do Parque Villa-Lobos, ideal para caminhadas leves.",
+    "endereco": "Av. Prof. Fonseca Rodrigues, 2001 - Alto de Pinheiros, São Paulo - SP",
+    "link": "https://www.parquevillalobos.sp.gov.br/"
+  },
+  {
+    "nome": "Trilha do Bosque - Parque da Aclimação",
+    "categoria": "Natureza",
+    "regiao": "Centro",
+    "descricao": "Trilha urbana em meio ao bosque do Parque da Aclimação, ótima para caminhadas rápidas.",
+    "endereco": "Rua Muniz de Souza, 1119 - Aclimação, São Paulo - SP",
+    "link": "https://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/parques/regiao_centro/parque_da_aclimacao/"
+  }
+
+
+]
